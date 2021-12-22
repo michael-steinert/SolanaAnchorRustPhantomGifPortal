@@ -11,4 +11,3 @@
 * On Solana, Users have Accounts and Programs can interact with these Accounts the Users own
 * One User can own arbitrarily Accounts and Programs can interact with these Accounts
 * The Program itself does not hold a User's Data instead The Program interacts with Accounts that hold the User's data
-* 
