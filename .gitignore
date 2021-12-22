@@ -1,0 +1,11 @@
+.idea
+.anchor
+target
+**/*.rs.bk
+node_modules
+app/node_modules
+app/package-lock.json
+yarn.lock
+Anchor.lock
+Cargo.lock
+package-lock.json
